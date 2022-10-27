@@ -232,12 +232,7 @@ header .container .short-menu ul.menu-links li i {
   margin-right: 15px;
 }
 
-
-
-
-
-
-
+/* .landing */
 .landing {
   height: calc(100vh - 50px);
 }
