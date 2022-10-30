@@ -1200,7 +1200,7 @@ header .container .short-menu ul.menu-links li i {
   background-color: var(--main2-color);
   width: fit-content;
   margin: 0 auto;
-  padding: 30px;
+  padding: 25px;
   border-radius: 50px;
   position: relative;
   z-index: 2;
@@ -1208,7 +1208,7 @@ header .container .short-menu ul.menu-links li i {
 
 .events form [type="email"] {
   padding: 15px;
-  margin-right: 20px;
+  margin-right: 10px;
   border-radius: 50px;
   border-color: transparent;
 }
